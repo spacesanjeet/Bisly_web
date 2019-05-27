@@ -1,0 +1,13 @@
+table, th, td {
+  border: 1px solid black;
+  font-family: 'Quicksand', sans-serif;
+}
+table {
+  border-spacing: 2px;
+}
+th, td {
+  padding: 5px;
+}
+ul {
+  font-family: 'Quicksand', sans-serif;
+}

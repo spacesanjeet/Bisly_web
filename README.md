@@ -7,6 +7,6 @@
 </p>
 <br>
 Its a pure HTML and CSS webpage, which is designed for Bisly, a general purpose discord bot.<br>
-Check it out here. https://bisly.glitch.com<br>
+Check it out here. https://bisly.glitch.me<br>
 Thank u. ^_^
  

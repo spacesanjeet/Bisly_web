@@ -6,7 +6,7 @@ body {
   height: 400px;
   background-size: cover;
   margin: 0;
-  background-color: #eb8c34;
+  background-color: #ebc034;
 }
 img {
   width: 100%;
@@ -20,7 +20,7 @@ table {
   border-spacing: 2px;
 }
 th, td {
-  padding: 5px;
+  padding: 10px;
 }
 ul {
   font-family: 'Quicksand', sans-serif;
@@ -96,4 +96,8 @@ table {
 
 .topright:hover {
   color: red;
+}
+.text-muted{
+  font-size: 18px;
+  color: white;
 }

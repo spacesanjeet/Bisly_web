@@ -6,7 +6,8 @@
   <img src="https://forthebadge.com/images/badges/uses-html.svg" />
 </p>
 <br>
-Its a pure HTML and CSS webpage, which is designed for Bisly, a general purpose discord bot.<br>
+It's a pure HTML and CSS webpage, which was designed for Bisly, a general purpose discord bot.<br>
+Bisly was discontinued and deleted from discord in 2021, however the website will keep running as a token of memory.<br>
 Check it out here. https://bisly.glitch.me<br>
 Thank u. ^_^
  

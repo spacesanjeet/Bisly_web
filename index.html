@@ -90,7 +90,11 @@
       <li class="nav-item">
         <a class="nav-link" href="https://discord.gg/B83ScTT" target="_blank">Discord</a>
       </li>
+      <li class="nav-item">
+          <button onclick="myF1()" class="toggle1">Toggle dark mode</button>
+      </li>
     </ul>
+    <br>
     <span>
       <button type="button" class="btn btn-primary" onclick="document.location = 'commands.html'">Commands</button>
     </span>
@@ -300,7 +304,26 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
-</script>    
+</script>
+ 
+<style>
+body {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+</style>
+  
+<script>
+function myF1() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
     
 </body>
 </html>
